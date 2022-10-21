@@ -15,8 +15,8 @@ public String toString() {
 
 public static void main(String [] args)
 {
-Employee employee=new Employee(1, "ding2");
-Employee employee2=new Employee(2, "dinga");
+Employee employee=new Employee(1, "ding");
+Employee employee2=new Employee(2, "dinga2");
 System.out.println(employee);
 System.out.println(employee2);
 }
